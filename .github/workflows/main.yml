@@ -1,0 +1,4 @@
+git clone --recursive https://github.com/zotero/zotero-connectors.git
+cd zotero-connectors
+npm install
+./build.sh -d
